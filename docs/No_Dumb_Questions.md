@@ -21,4 +21,5 @@ Yeah that's why we call/summon them juste like this:
 > bert_encoder = hub.KerasLayer("https://tfhub.dev/tensorflow/bert_en_uncased_L-12_H-768_A-12/4") 
 
 
-
+# Elmo
+ELMo is a novel way to represent words in vectors or embeddings. These word embeddings are helpful in achieving state-of-the-art (SOTA) results in several NLP tasks: NLP scientists globally have started using ELMo for various NLP tasks, both in research as well as the industry.
