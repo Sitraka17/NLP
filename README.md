@@ -27,3 +27,4 @@ https://medium.com/saarthi-ai/bert-how-to-build-state-of-the-art-language-models
 
 Francophonie: 
 https://blog.baamtu.com/word2vec-camembert-use-embedding-models/
+--oui c'est juste de la trad d'articles anglais mais tout de même ! Vive la FRANCOPHONIE <3
