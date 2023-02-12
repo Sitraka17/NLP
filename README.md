@@ -15,3 +15,6 @@ LSA
 How to get started with topic modeling using LDA in Python](https://towardsdatascience.com/end-to-end-topic-modeling-in-python-latent-dirichlet-allocation-lda-35ce4ed6b3e0)
 
 [Understanding BERT architecture](https://medium.com/analytics-vidhya/understanding-bert-architecture-3f35a264b187)
+
+
+[Unbalanced Data Set](https://www.kdnuggets.com/2017/06/7-techniques-handle-imbalanced-data.html)
