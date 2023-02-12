@@ -4,7 +4,7 @@ import nltk
 import re
 import pandas as pd
 
-
+# chose language
 nlp = spacy.load('en')
 STOPWORDS_DICT = {lang: set(nltk.corpus.stopwords.words(lang)) for lang in nltk.corpus.stopwords.fileids()}
 
