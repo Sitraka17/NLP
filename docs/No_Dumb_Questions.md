@@ -1,2 +1,13 @@
-What is 768 in BERT ?
+# Basics_NLP_101
+**Cosine similarity** is a measure of similarity between two non-zero vectors defined in an inner product space
+
+
+# BERT 
+What is **768** in BERT ?
 The BERTBase model uses #12 layers# of transformers block with a hidden size of 768 and number of self-attention heads as 12 and has around 110M trainable parameters
+
+
+Pre_Trained ? 
+Yeah that's why we call/summon them juste like this: 
+> bert_preprocess = hub.KerasLayer("https://tfhub.dev/tensorflow/bert_en_uncased_preprocess/3")
+> bert_encoder = hub.KerasLayer("https://tfhub.dev/tensorflow/bert_en_uncased_L-12_H-768_A-12/4") 
