@@ -8,17 +8,10 @@ To form yourself really easily: [TF tutorial](https://www.tensorflow.org/tutoria
 
 # Get the Data
 
-... 
-
-
 # Explore 
 
-
-
 # H.Parameters
-
-... 
-
+ 
 # la tambouille à écrire 
 
 
