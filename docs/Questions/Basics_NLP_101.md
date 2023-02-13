@@ -6,5 +6,19 @@ To form yourself really easily: [TF tutorial](https://www.tensorflow.org/tutoria
 **Cosine similarity** is a measure of similarity between two non-zero vectors defined in an inner product space
 
 
+# Get the Data
+
+... 
+
+
+# Explore 
+
+
+
+# H.Parameters
+
+... 
+
+
 
 
