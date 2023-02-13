@@ -19,6 +19,9 @@ To form yourself really easily: [TF tutorial](https://www.tensorflow.org/tutoria
 
 ... 
 
+# la tambouille à écrire 
+
+
 
 
 
