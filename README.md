@@ -20,8 +20,12 @@ How to get started with topic modeling using LDA in Python](https://towardsdatas
 [Unbalanced Data Set](https://www.kdnuggets.com/2017/06/7-techniques-handle-imbalanced-data.html)
 
 
-
 [Building State-of-the-Art Language Models with BERT, 2019](https://medium.com/saarthi-ai/bert-how-to-build-state-of-the-art-language-models-59dddfa9ac5d)
+
+
+
+
+
 
 
 Francophonie: 
