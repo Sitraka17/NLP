@@ -1,5 +1,7 @@
 # NLP
-Natural Language Processing is growing and becoming awesome.
+Natural Language Processing is growing and becoming more and more present in our daily lifes !!!
+
+It's may be the most interesting field in Data Science and Computer Science. 
 
 
 
