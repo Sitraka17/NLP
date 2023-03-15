@@ -1,0 +1,21 @@
+👩‍🚀 Train the latest transformer models on your own data without a single line of code 👩‍🚀 A model that knows about COVID and presidential elections?
+
+In Argilla Auto-train, you can pick any model, but we have set the default to olm-roberta-base-latest, which is a Roberta model trained on data up to December 2022.
+
+Steps:
+
+1. Launch Argilla on Hugging Face Spaces and label your data
+
+2. Go to the Argilla Streamlit Customs Space and select auto-train.
+
+3. Add your Argilla API URL, API key, and Hugging Face Token.
+
+4. Select a dataset from the dropdown of available datasets.
+
+5. Click schedule AutoTrain and follow the steps.
+
+Works for text classification, token classification, and text summarization.
+
+All links in the first comment
+
+Voir la traduction
