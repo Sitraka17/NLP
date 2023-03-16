@@ -1,0 +1,2 @@
+https://www.databricks.com/notebooks/esg_notebooks/02_esg_scoring.html
+https://developers.refinitiv.com/en/article-catalog/article/gathering-aggregated-esg-data-on-companies--esgbooleandata-pytho
