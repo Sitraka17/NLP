@@ -3,6 +3,9 @@ Natural Language Processing is growing and becoming more and more present in our
 
 It's may be the most interesting field in Data Science and Computer Science. 
 
+Update_2025: 
+https://github.com/langchain-ai/rag-from-scratch 
+
 
 
 ## Used Articles: 
